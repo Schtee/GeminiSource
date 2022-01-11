@@ -1,2 +1,0 @@
-# Testing generating an index
-This post should help test generating an index

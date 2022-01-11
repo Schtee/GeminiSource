@@ -1,3 +1,6 @@
+# Stephen Taylor's Gemini Thingy
+Welcome to my Gemini Thingy, where I'm testing generating generating an index page from a template!
+
 # 2022
 ## January
-=> 2022-01-11-testing-generating-an-index.gmi Testing Generating An Index
+=> 2022-01-11-i-guess-i-have-a-gemini-server.gmi I Guess I Have A Gemini Server
